@@ -11,7 +11,7 @@ This project could have been built with a legacy tech stack but we chose Blockch
 ## Quickstart
 
 1. Clone the repo
-2. install testrpc  `npm install -g ethereumjs-testrpc` and truffle `npm install truffle@3.2.5 -g`
+2. install testrpc  `npm install -g ethereumjs-testrpc` and truffle `npm install truffle -g`
 3. Go to project dir and run `npm install`
 4. Run command - `testrpc` 
 5. Run `truffle compile`, then run `truffle migrate` to deploy the contracts onto your network of choice (default "development").
